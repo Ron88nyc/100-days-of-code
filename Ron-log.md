@@ -59,3 +59,14 @@ Review objects and did daily coding challenge
 Attened learn with leons class to practice and review over objects and github
 ### R1D27
 Micrsoft github tutorial with azure and daily code wars commit and changes
+### R1D28
+Daily codewar challenges and reviewing
+### R1D29
+Worked on freelancing a clients website updating it. 
+### R1D30
+Made the website client website mobile friendly
+### R1D31
+Used the interval() method to make website look cleaner
+### R1D32
+Practiced fade in and fade out method for clients website and looking for images to better define clients website.
+
