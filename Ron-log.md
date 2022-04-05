@@ -49,3 +49,13 @@ Went through office hours with leon and practice more objects! Learned a solutio
 Watched video on github tutorial. Learned the commands for git such as git push git add git . git pull and git commit
 ### R1D22
 Daily codewars challenge and watch a video about object-oriented programming
+### R1D23
+Codewars and reviewed javascript Array methords.
+### R1D24
+Learning git and reving how to push from local machine to github
+### R1D25
+Review objects and did daily coding challenge
+### R1D26 
+Attened learn with leons class to practice and review over objects and github
+### R1D27
+Micrsoft github tutorial with azure and daily code wars commit and changes
